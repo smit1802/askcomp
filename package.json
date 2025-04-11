@@ -1,0 +1,18 @@
+{
+  "name": "askcomp",
+  "version": "1.0.0",
+  "description": "An intelligent compliance bot built using FastAPI and Pydantic agents that helps users get compliance-related information through Slack.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@smithery/cli": "^1.1.66"
+  }
+}
